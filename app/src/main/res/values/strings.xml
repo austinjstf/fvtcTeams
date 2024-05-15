@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Teams</string>
+    <string name="show_a_list_of_teams">Show a list of teams</string>
+    <string name="show_the_teams_map_page">Show the Teams map page</string>
+    <string name="show_the_settings_page">Show the Settings Page</string>
+    <string name="team_list">Team List</string>
+    <string name="team_settings">Team Settings</string>
+    <string name="team_map">Team Map</string>
+    <string name="favorite">Favorite</string>
+    <string name="city">City</string>
+    <string name="name">Name</string>
+    <string name="team_image">Team Image</string>
+    <string name="off">off\n</string>
+    <string name="save">save\n</string>
+    <string name="enter_name" />
+    <string name="enter_city" />
+    <string name="cell_phone" />
+    <string name="rating" />
+    <string name="rate" />
+    <string name="show_the_map_page" />
+    <string name="delete" />
+    <string name="is_favorite" />
+    <string name="newtext" />
+    <string name="save_team">Save Team</string>
+    <string name="delete_item">Delete Item</string>
+    <string name="save_your_team">Save Your Team</string>
+    <string name="add_team_here">Add Team Here</string>
+    <string name="delete_please">Delete Please</string>
+    <string name="_100_atm">100% atm</string>
+    <string name="_100">100%</string>
+    <string name="sort_by">Sort By</string>
+    <string name="sort_order">Sort Order</string>
+    <string name="ascending">Ascending</string>
+    <string name="descending">Descending</string>
+    <string name="api_url">https://fvtcdp.azurewebsites.net/api/Team/</string>
+    <string name="address">Address</string>
+</resources>
